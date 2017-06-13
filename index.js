@@ -1,2 +1,2 @@
-exports.name = 'test';
+exports.name = 'test2';
 exports.default = 'foobar';
